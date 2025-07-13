@@ -64,17 +64,6 @@ The `app.py` file runs a Flask app that:
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of the notebook visualizations and web app interface if available._
-
----
-
-## ✅ Future Work
-
-- Add classification model (pass/fail prediction)
-- Improve accuracy using advanced regression
-- Deploy on Heroku or Render
 
 ---
 
