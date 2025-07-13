@@ -70,6 +70,6 @@ The `app.py` file runs a Flask app that:
 ## 🧑‍💻 Author
 
 **Mirza Naveed Baig**  
-Final Year BCA Student | Aspiring Data Scientist  
+BCA Graduate| Aspiring Data Scientist  
 [GitHub](https://github.com/Naveed05)
 
